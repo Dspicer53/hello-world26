@@ -1,1 +1,1 @@
-# hello-world26
+# hello-world26 Practicing Git and GitHub for lab
